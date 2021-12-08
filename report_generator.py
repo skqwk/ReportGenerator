@@ -8,8 +8,8 @@ from pathlib import Path
 from balaboba_request import generateDescription 
 
 # Используемые файлы
-TITUL_PAGE = "Титульный лист copy.docx"
-OUPUT_PAGE = "output.docx"
+TITUL_PAGE = "Titul_page.docx"
+OUTPUT_PAGE = "output.docx"
 CONFIG_JSON = "config.json"
 
 # Используемые стили
@@ -128,7 +128,7 @@ def main():
         addTextParagraphToDocumentInStyle(headers[3], document, HEADER_STYLE) 
         addTextParagraphToDocumentInStyle(generateDescription(task["topic"], "Вывод"), document, CONTENT_STYLE)
         i+=1
-    document.save(OUPUT_PAGE)
+    document.save(OUTPUT_PAGE)
 
 
 main()
