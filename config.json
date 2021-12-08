@@ -1,0 +1,148 @@
+{
+    "tasks" : [
+        {
+            "folder" : "first",
+            "include" : ["Book", "Dog"],
+            "topic" : "Классы, как новые типы данных. Поля данных и методы",
+            "problem_statement" : "Разработать классы ..." 
+        },
+        {
+            "folder" : "second",
+            "include" : ["Author", "Ball"],
+            "topic" : "Использование UML диаграмм в объектно-ориентированном программировании",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "third",
+            "include" : ["MovablePoint", "Rectangle"],
+            "topic" : "Наследование. Абстрактные суперклассы и их подклассы в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "fourth",
+            "include" : ["Exercise", "TextAreaExample"],
+            "topic" : "Создание GUI. Событийное программирование в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "fifth",
+            "include" : ["RecursionTask"],
+            "topic" : "Программирование рекурсии в Java",
+            "problem_statement" : "Разработать классы ..." 
+        },
+        {
+            "folder" : "sixth",
+            "include" : ["GPAComparator", "MergeSortStudent"],
+            "topic" : "Техники сортировки в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "seventh",
+            "include" : ["Drunkard", "InteractiveDrunkard"],
+            "topic" : "Использование стандартных контейнерных классов при программировании на Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "lab8",
+            "include" : ["IWaitList", "WaitList"],
+            "topic" : "Виды списков ожидания",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "lab9",
+            "include" : ["LabClassUI", "TestCreateOrder"],
+            "topic" : "Создание пользовательских исключений в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "lab10",
+            "include" : ["Chair", "TestChair", "TestFactory", "Complex", "Application"],
+            "topic" : "Паттерны проектирования. Порождающие паттерны: абстрактная фабрика, фабричный метод",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "lab11",
+            "include" : ["ExpressionParser", "Main", "ArrayQueue"],
+            "topic" : "Использование структуры данных \"Очередь\" в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "lab12",
+            "include" : ["Person", "Address", "AddressTest", "Shirt", "Solution"],
+            "topic" : "Обработка строк в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "lab14and15",
+            "include" : ["Restaurant", "Dish", "Menu", "Order"],
+            "topic" : "Создание динамических структур в Java, механизм исключений и концепция интерфейсов",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "sixteenth",
+            "include" : ["Circle", "Factorial", "HarmonicNums"],
+            "topic" : "Циклы, условия, переменные и массивы в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "seventeenth",
+            "include" : ["Book", "Human", "Circle"],
+            "topic" : "ООП в Java. Понятие класса",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "eightteenth",
+            "include" : ["TestDish", "TestDog", "TestFurnitureShop"],
+            "topic" : "Наследование в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "nineteenth",
+            "include" : ["Airplane", "Car", "Flower"],
+            "topic" : "Интерфейсы в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "twentieth",
+            "include" : ["Animation", "DynamicShapes"],
+            "topic" : "Создание программ с графическим интерфейсом пользователя на Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "twentyfirst",
+            "include" : ["GuessNum", "HoverMouse"],
+            "topic" : "Обработка событий в Java программах с графическим интерфейсом пользователя",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "twentysecond",
+            "include" : ["TestArrayList", "OwnCollection"],
+            "topic" : "Коллекции, очереди, списки в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "twentythird",
+            "include" : ["WorkWithFile"],
+            "topic" : "Работа с файлами в Java",
+            "problem_statement" : "Разработать классы ..."
+        },
+        {
+            "folder" : "lab24",
+            "include" : ["Exception1","Exception2","Exception3"],
+            "topic" : "Создание пользовательских исключений в Java",
+            "problem_statement" : "Разработать классы ..." 
+        },
+        {
+            "folder" : "lab25and26",
+            "include" : ["Box","CatalogPrinter","Solution"],
+            "topic" : "Использование дженериков в Java",
+            "problem_statement" : "Разработать классы ..." 
+        },
+        {
+            "folder" : "regex27-30",
+            "include" : ["Task27", "Task28","Task29","Task30"],
+            "topic" : "Обработка строк. Использование регулярных выражений в Java-приложениях",
+            "problem_statement" : "Разработать классы ..."
+        }
+    ]
+}
